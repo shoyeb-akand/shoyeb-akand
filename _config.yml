@@ -1,0 +1,11 @@
+title: "Md. Shoyeb Akand"
+description: "Chemical Engineering · MSc Researcher · Nanomaterials & Photocatalysis"
+url: "https://<your-username>.github.io"
+baseurl: ""
+theme: jekyll-theme-minimal
+logo: /assets/images/profile.jpg
+show_downloads: false
+social_links:
+  - { platform: linkedin,  user_url: "https://www.linkedin.com/in/your-handle" }
+  - { platform: google_scholar, user_url: "https://scholar.google.com/your-id" }
+  - { platform: researchgate, user_url: "https://www.researchgate.net/profile/your-id" }
